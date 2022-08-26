@@ -1,6 +1,6 @@
 ![hi](./header.png)
 
-<h3 align="left">Bio</h3>
+<h3 align="left">Bio:</h3>
 
 - 🌱 I have started my IT journey at primary school when I have learned PHP, HTML and MySQL. I have also been playing with multiple Linux distributions (starting with Knoppix 3.1) and restoring old computers.
  

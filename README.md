@@ -8,7 +8,7 @@
  
 - 🤖 During my studies I had a chance to programm STM32 microcontrollers. I have prepared a course - searies of articles published in "Elektronika Praktyczna" magazine and a [book](https://botland.com.pl/ksiazki-o-mikrokontrolerach/13945-mikrokontrolery-stm32-dla-poczatkujacych-aleksander-kurczyk-twarda-oprawa-9788364702167.html) on programming this microcontrollers.
  
-- 💼 During my carieer I have been working on multiple PHP/Laravel, Python/Django, and embedded C projects, managing bare metal as well as cloud servers and services, managing self-hosted and cloud-based Kubernetes, preparing GitLab's CI/CD scripts, writing Ansible playbooks and Terraform IaC projects.
+- 💼 During my carieer I have been working on multiple PHP/Laravel, Python/Django, and embedded C projects, managing bare-metal as well as cloud servers and services, managing self-hosted and cloud-based Kubernetes, preparing GitLab's CI/CD scripts, writing Ansible playbooks and Terraform IaC projects.
 
 - 👨‍💻 Currently I'm working at [PeakData](https://www.peakdata.com) as DevOps Engineer with Kubernetes, AWS and Python.
 

@@ -1,27 +1,16 @@
 ![hi](./header.png)
 
-<h1 align="center">Hi 👋, I'm Olek</h1>
-<h3 align="center">DevOps Engineer / Python Developer / Embedded Developer</h3>
+<h3 align="left">Bio</h3>
 
-- 👨‍💻 I’m currently working in [PeakData](https://www.peakdata.com)
+- 🌱 I have started my IT journey at primary school when I have learned PHP, HTML and MySQL. I have also been playing with multiple Linux distributions (starting with Knoppix 3.1) and restoring old computers.
+ 
+- 📝 During my highschool I have been writing a [blog at Dobre Programy vortal](https://www.dobreprogramy.pl/@okokok). I have tested and been doing reviews of polish bare-metal and cloud service providers, testing Intel Galileo with early Windows for IoT, writing about HAM radio and theory of radio waves and commumnication, writing howtos on Windows Server 2012 and Raspberry Pi-based projects.
+ 
+- 🤖 During my studies I had a chance to programm STM32 microcontrollers. I have prepared a course - searies of articles published in "Elektronika Praktyczna" magazine and a [book](https://botland.com.pl/ksiazki-o-mikrokontrolerach/13945-mikrokontrolery-stm32-dla-poczatkujacych-aleksander-kurczyk-twarda-oprawa-9788364702167.html) on programming this microcontrollers.
+ 
+- 💼 During my carieer I have been working on multiple PHP/Laravel and Python/Django projects, managing bare metal as well as cloud servers and services, managing self-hosted and cloud-based Kubernetes, preparing GitLab's CI/CD scripts, writing Ansible playbooks and Terraform IaC projects.
 
-- 🌱 I’m currently learning **cc**
-
-- 👯 I’m looking to collaborate on [aa](aa)
-
-- 🤝 I’m looking for help with [bb](bb)
-
-- 👨‍💻 All of my projects are available at [ff](ff)
-
-- 📝 I regularly write articles on [gg](gg)
-
-- 💬 Ask me about **dd**
-
-- 📫 How to reach me **ee**
-
-- 📄 Know about my experiences [hh](hh)
-
-- ⚡ Fun fact **jj**
+- 👨‍💻 Currently I'm working at [PeakData](https://www.peakdata.com) as DevOps Engineer with Kubernetes, AWS and Python.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

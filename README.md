@@ -24,4 +24,4 @@
 
 <h3 align="left">Stats:</h3>
 
-![Olek's GitHub stats](https://github-readme-stats.vercel.app/api?username=akurczyk&show_icons=true&theme=shades-of-purple)
+![Olek's GitHub stats](https://github-readme-stats.vercel.app/api?username=akurczyk&show_icons=true&theme=default)

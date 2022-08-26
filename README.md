@@ -4,7 +4,7 @@
 
 - 🌱 I have started my IT journey during primary school when I have learned PHP, HTML and MySQL. I have also been playing with various Linux distributions (starting with Knoppix 3.1) and restoring old computers.
  
-- 📝 During my highschool I have been writing a [blog at Dobre Programy vortal](https://www.dobreprogramy.pl/@okokok) where I have been testing and doing reviews of polish bare-metal and cloud service providers, testing Intel Galileo with early Windows for IoT, writing about HAM radio and theory of radio waves and commumnication, writing howtos on Windows Server 2012, doing Raspberry Pi-based projects, and many more...
+- 📝 During my highschool I have been writing a [blog](https://www.dobreprogramy.pl/@okokok) at Dobre Programy vortal where I have been testing and doing reviews of polish bare-metal and cloud service providers, testing Intel Galileo with early Windows for IoT, writing about HAM radio and theory of radio waves and commumnication, writing howtos on Windows Server 2012, doing Raspberry Pi-based projects, and many more...
  
 - 🤖 During my studies I had a chance to programm STM32 microcontrollers. I have prepared a course - searies of articles published in "Elektronika Praktyczna" magazine and a [book](https://botland.com.pl/ksiazki-o-mikrokontrolerach/13945-mikrokontrolery-stm32-dla-poczatkujacych-aleksander-kurczyk-twarda-oprawa-9788364702167.html) on programming this microcontrollers.
  

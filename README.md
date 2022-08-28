@@ -2,7 +2,7 @@
 
 <h3 align="left">Bio:</h3>
 
-- 🌱 I have started my IT journey during primary school when I have learned PHP, HTML and MySQL. I have also been playing with various Linux distributions (starting with Knoppix 3.1) and restoring old computers.
+- 🌱 I have started my IT journey during primary school when I have learned PHP, HTML and MySQL, I have been playing with various Linux distributions (starting with Knoppix 3.1) and old computers.
  
 - 📝 During my highschool I have been writing a [blog](https://www.dobreprogramy.pl/@okokok) at Dobre Programy vortal where I have been testing and doing reviews of polish bare-metal and cloud service providers, testing Intel Galileo with early Windows for IoT, writing about HAM radio and theory of radio waves and commumnication, writing howtos on Windows Server 2012, doing Raspberry Pi-based projects, and many more...
  

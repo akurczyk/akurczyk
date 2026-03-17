@@ -10,13 +10,11 @@
  
 - 💼 During my carieer I have been working on multiple PHP/Laravel, Python/Django, and embedded C projects, managing bare-metal as well as cloud servers and services, managing self-hosted and cloud-based Kubernetes, preparing GitLab's CI/CD scripts, writing Ansible playbooks and Terraform IaC projects.
 
-- 👨‍💻 Currently I'm working at [PeakData](https://www.peakdata.com) as DevOps Engineer with Kubernetes, AWS and Python.
+- 👨‍💻 Currently I'm working as DevOps Engineer with Kubernetes, AWS and Python.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akurczyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akurczyk" height="30" width="40" /></a>
-<a href="https://medium.com/@akurczyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akurczyk" height="30" width="40" /></a>
-<a href="https://www.dobreprogramy.pl/@okokok" target="blank"><img align="center" src="https://github.com/akurczyk/akurczyk/blob/main/dp.png" alt="@okokok" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
